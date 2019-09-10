@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questao02 {
+public class Lista1Questao2 {
     public static void main(String[] args) {
     double numero;
     double dobro;
