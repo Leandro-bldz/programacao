@@ -1,6 +1,8 @@
+package lista01;
+
 import java.util.Scanner;
 
-public class Lista1Questao2 {
+public class letraB {
     public static void main(String[] args) {
     double numero;
     double dobro;
